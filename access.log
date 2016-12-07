@@ -1,0 +1,7 @@
+[0mPOST /api/signup [0m- [0m- ms - -[0m
+[0mPOST /api/signup [32m200 [0m200.083 ms - 20[0m
+[0mPOST /api/signup [32m200 [0m166.240 ms - 20[0m
+[0mPOST /api/login [31m500 [0m58.731 ms - 1288[0m
+[0mPOST /api/login [32m200 [0m218.717 ms - 35[0m
+[0mPOST /api/documents/example.md?token=48471ffa-4686-4215-88a3-c17fcd59ac6a1 [33m404 [0m41.650 ms - 82[0m
+[0mPOST /api/documents/example.md?token=48471ffa-4686-4215-88a3-c17fcd59ac6a [33m404 [0m4.795 ms - 81[0m
